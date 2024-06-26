@@ -4,6 +4,8 @@
 
 This is simple calculator which performs all basic arithmetic calculations. I design this using HTML and CSS.
 
+Deploy on Netlify Visit: https://math-op.netlify.app/
+
 ## Screenshot
 
 ![calc-img1](https://github.com/ChiragGitHub231/Calculator/assets/107389544/ca76e67a-05d6-41fd-8c72-67faa2f8020c)
